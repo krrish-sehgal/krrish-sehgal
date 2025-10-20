@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Krrish Sehgal!
-Check out my [Open Source Contributions](https://krrishsehgal.vercel.app/open-source)! 👏 <br>
 Check out my [Personal Website](https://krrishsehgal.vercel.app) to know more about me!
 
 # 💻 Tech Stack:
